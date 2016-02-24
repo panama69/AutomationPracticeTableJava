@@ -13,7 +13,7 @@ import com.hp.lft.sdk.web.*;
 import com.hp.lft.report.*;
 import com.hp.lft.verifications.*;
 import unittesting.*;
-/* Goal as desribed on: http://toolsqa.com/selenium-webdriver/handle-dynamic-webtables-in-selenium-webdriver/
+/* Goal as described on: http://toolsqa.com/selenium-webdriver/handle-dynamic-webtables-in-selenium-webdriver/
  * 
  * 1) Launch new Browser
  * 2) Open URL “http://toolsqa.com/automation-practice-table/”
